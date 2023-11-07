@@ -13,4 +13,4 @@ Overall, these results suggest that the GAN model was able to generate high-qual
 
 
 
- The notebook is well documented and commented. Just follow each step and read the comment after each cell.
+ # The notebook is well documented and commented. Just follow each step and read the comment after each cell.
